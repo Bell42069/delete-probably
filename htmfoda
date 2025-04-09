@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia sobre Hollow Knight</title>
+</head>
+<body>
+    <header>
+        <div class="Título">
+            <h1>Aqui você pode ver um guia simples sobre o Metroidvania "Hollow Knight"</h1>
+            <h2>Talvez você possa encontrar alguma ajuda que possa te fazer melhorar no jogo!</h2>
+            <img src="./imagens-fodas/inicio.jpg" height="1200" width="1300" alt="Hollow Knight">
+        </div>
+    </header>
+
+    <div class="Desenvolvimento">
+        
+    </div>
+
+</body>
+</html>
