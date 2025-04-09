@@ -10,12 +10,19 @@
         <div class="Título">
             <h1>Aqui você pode ver um guia simples sobre o Metroidvania "Hollow Knight"</h1>
             <h2>Talvez você possa encontrar alguma ajuda que possa te fazer melhorar no jogo!</h2>
-            <img src="./imagens-fodas/inicio.jpg" height="1200" width="1300" alt="Hollow Knight">
+            <img src="./imagens-fodas/inicio.jpg" height="500" width="500" alt="Hollow Knight">
         </div>
     </header>
 
     <div class="Desenvolvimento">
-        
+        <h2>História e Jogabilidade</h2>
+        <p>A princípio, não existem objetivos definidos em Hollow Knight. O jogador deve explorar cada canto do cenário para adquirir novas habilidades que dão acesso a novas áreas ou ajudam a enfrentar inimigos mais difíceis. A história é contada aos poucos por meio de diálogos com outros personagens e itens encontrados no game.</p>
+
+        <p>A jogabilidade mistura elementos de jogos plataforma com um combate estilo “Dark Souls“, ou seja, que exige destreza e paciência do jogador para entender os padrões de ataque dos inimigos, principalmente dos “chefões”.</p>
+
+        <p>O Cavaleiro realiza ataques com sua “espada-agulha”, e alguns movimentos especiais custam “ALMA”, obtida ao derrotar inimigos. Ela também serve para recuperar um pouco da vida do Cavaleiro.</p>
+
+        <p>Ao morrer, o Cavaleiro perde todos os “geos” (a moeda do jogo) momentaneamente, além de metade da sua barra de energia. Ao voltar para o local da morte, você deve derrotar um fantasma do Cavaleiro para recuperar tudo. Se morrer novamente antes de matar o fantasma, todo o dinheiro é perdido definitivamente.</p>
     </div>
 
 </body>
