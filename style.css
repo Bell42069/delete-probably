@@ -9,8 +9,20 @@
     max-width: 100;
 }
 
-nav, a {
+.navBar,a {
     text-align: center;
-    text-decoration: overline;
-    
+    text-decoration: none;
+}
+
+.Video1 {
+    text-align: center;
+
+}
+
+.Video2 {
+    text-align: center;
+}
+
+.Video3 {
+    text-align: center;
 }
