@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Título {
+    text-align: center;
+    color: darkgrey;
+    max-width: 100;
+}
+
+nav, a {
+    text-align: center;
+    text-decoration: overline;
+    
+}
