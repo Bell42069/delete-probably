@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="shortcut icon" href="imagens-fodas/icone.png" width="64" height="64" type="image/x-icon">
-    <link rel="stylesheet" href="fodinha.css">
+    <link rel="stylesheet" href="style.css">
     <title>Guia sobre Hollow Knight</title>
 </head>
 <body>
     <header>
         <nav>
             <a href="#historia">HISTÓRIA</a>
-            <a href="#video">VIDEO</a>
+            <a href="#video">VIDEOS</a>
             <a href="#guia">GUIA</a>
         </nav>
 
@@ -57,23 +57,23 @@
             <p>Conforme progride no jogo, você adquire novos amuletos e novas mecânicas para o Cavaleiro, como mais máscaras de vida, pulo duplo, e outras habilidades que ajudam a navegar melhor pelos perigos dos túneis e cavernas de Hallownest. No entanto, vale lembrar que o jogo continua desafiador, e cada batalha contra um chefão é uma nova oportunidade para testar seus limites.</p>
         </div>
 
+        <h1>Aqui está um vídeo caso você queira entender a históira de Hollow Knight!</h1>
         <div class="Video1" id="video">
-            <h1>Aqui está um vídeo caso você queira entender a históira de Hollow Knight!</h1>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/ItQoBbQGMvY?si=dR4q9VS7QIJq7gV5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
+        <h1>Aqui você pode encontrar este vídeo curto que te ensina dicas rápidas de como melhorar no jogo!</h1>
         <div class="Video2">
-            <h1>Aqui você pode encontrar este vídeo curto que te ensina dicas rápidas de como melhorar no jogo!</h1>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/up-soL3B2o4?si=pxuj9nqB8n9p0KLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
+        <h1>Caso você queira aprender melhor, pode assistir essa triolgia de vídeos!</h1>
         <div class="VideoLongo1">
-            <h1>Caso você queira aprender melhor, pode assistir essa triolgia de vídeos!</h1>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/1ctOlVSJY_E?si=YUitpki1c_VGhoFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="370" height="400" src="https://www.youtube.com/embed/1ctOlVSJY_E?si=YUitpki1c_VGhoFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
-        
+
         <div class="VideoLongo2">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/K3YBGdrLB74?si=hBpS0iCeDGJB2hlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="370" height="400" src="https://www.youtube.com/embed/K3YBGdrLB74?si=hBpS0iCeDGJB2hlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
         <div class="VideoLongo3">
