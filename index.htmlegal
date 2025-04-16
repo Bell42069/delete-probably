@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="shortcut icon" href="imagens-fodas/icone.png" width="64" height="64" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="fodinha.css">
     <title>Guia sobre Hollow Knight</title>
 </head>
 <body>
@@ -26,7 +26,7 @@
 
     <div class="tudo">
         <div class="Parte1" id="historia">
-            <h2>História e Jogabilidade</h2>
+            <h1>História e Jogabilidade</h1>
             <p>A princípio, não existem objetivos definidos em Hollow Knight. O jogador deve explorar cada canto do cenário para adquirir novas habilidades que dão acesso a novas áreas ou ajudam a enfrentar inimigos mais difíceis. A história é contada aos poucos por meio de diálogos com outros personagens e itens encontrados no game.</p>
     
             <p>A jogabilidade mistura elementos de jogos plataforma com um combate estilo “Dark Souls“, ou seja, que exige destreza e paciência do jogador para entender os padrões de ataque dos inimigos, principalmente dos “chefões”.</p>
@@ -39,7 +39,7 @@
         </div>
 
         <div class="Parte2">
-            <h2>Adquira um pedaço do mapa e lembre-se dos bancos</h2>
+            <h1>Adquira um pedaço do mapa e lembre-se dos bancos</h1>
             <p>Apesar de ser desafiante, Hollow Knight é um jogo extremamente prazeroso de ser explorado. Cada nova área descoberta é diferente, com sua própria história, visual, perigos e inimigos a serem enfrentados e descobertos. Descobrir uma passagem secreta que leva a um local antes inalcançável é talvez tão recompensador quanto derrotar um chefão difícil.</p>
     
             <img src="imagens-fodas/caminho-verde.jpg" width="450" height="350" alt="cenário2">
@@ -49,7 +49,7 @@
         </div>
 
         <div class="Parte3">
-            <h2>Paciência é a Chave</h2>
+            <h1>Paciência é a Chave</h1>
             <p>A principal dica para novos jogadores de Hollow Knight é: tenha paciência. Mesmo para os mais experientes, o jogo é realmente difícil nas primeiras horas. Você vai morrer bastante, mas não se desespere. Foque em acostumar-se com a movimentação, em prestar atenção nos detalhes do cenário, e em explorar cada canto do mapa.</p>
     
             <img src="imagens-fodas/coliseu-dos-tolos.jpg" width="450" height="350" alt="cenário3">
@@ -58,23 +58,28 @@
         </div>
 
         <div class="Video1" id="video">
-            <h2>Aqui está um vídeo caso você queira entender a históira de Hollow Knight!</h2>
+            <h1>Aqui está um vídeo caso você queira entender a históira de Hollow Knight!</h1>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/ItQoBbQGMvY?si=dR4q9VS7QIJq7gV5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
         <div class="Video2">
-            <h2>Aqui você pode encontrar este vídeo curto que te ensina dicas rápidas de como melhorar no jogo!</h2>
+            <h1>Aqui você pode encontrar este vídeo curto que te ensina dicas rápidas de como melhorar no jogo!</h1>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/up-soL3B2o4?si=pxuj9nqB8n9p0KLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
-        <div class="Video3">
-            <h2>Caso você queira aprender melhor, pode assistir essa triolgia de vídeos!</h2>
+        <div class="VideoLongo1">
+            <h1>Caso você queira aprender melhor, pode assistir essa triolgia de vídeos!</h1>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/1ctOlVSJY_E?si=YUitpki1c_VGhoFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        
+        <div class="VideoLongo2">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/K3YBGdrLB74?si=hBpS0iCeDGJB2hlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
+        <div class="VideoLongo3">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/tvhaitA-rTM?si=QNY78gzK8q5Uvx41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
     </div>
-
 
     <footer>
         
