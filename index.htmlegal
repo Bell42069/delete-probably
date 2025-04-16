@@ -3,17 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="img width= 64 height="64" src="https://img.icons8.com/dusk/64/hollow-knight.png" alt="hollow-knight"/>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="fodinha.css">
+    <link rel="shortcut icon" href="imagens-fodas/icone.png" width="64" height="64" type="image/x-icon">
     <title>Guia sobre Hollow Knight</title>
 </head>
 <body>
     <header>
-
-        <nav>
-            <a href="#historia">HISTÓRIA</a>
-            <a href="#video">VIDEO</a>
-        </nav>
         <div class="Título">
             <h1>Aqui você pode ver um guia simples sobre o Metroidvania "Hollow Knight"</h1>
             <h2>Talvez você possa encontrar alguma ajuda que possa te fazer melhorar no jogo!</h2>
@@ -21,11 +16,13 @@
         </div>
     </header>
 
-    <div class="Parte1" id="historia">
+    <div class="Parte1">
         <h2>História e Jogabilidade</h2>
         <p>A princípio, não existem objetivos definidos em Hollow Knight. O jogador deve explorar cada canto do cenário para adquirir novas habilidades que dão acesso a novas áreas ou ajudam a enfrentar inimigos mais difíceis. A história é contada aos poucos por meio de diálogos com outros personagens e itens encontrados no game.</p>
 
         <p>A jogabilidade mistura elementos de jogos plataforma com um combate estilo “Dark Souls“, ou seja, que exige destreza e paciência do jogador para entender os padrões de ataque dos inimigos, principalmente dos “chefões”.</p>
+
+        <img src="imagens-fodas/dirthmouth.jpg" alt="cenário">
 
         <p>O Cavaleiro realiza ataques com sua “espada-agulha”, e alguns movimentos especiais custam “Alma”, obtida ao derrotar inimigos. Ela também serve para recuperar um pouco da vida do Cavaleiro.</p>
 
@@ -36,6 +33,8 @@
         <h2>Adquira um pedaço do mapa e lembre-se dos bancos</h2>
         <p>Apesar de ser desafiante, Hollow Knight é um jogo extremamente prazeroso de ser explorado. Cada nova área descoberta é diferente, com sua própria história, visual, perigos e inimigos a serem enfrentados e descobertos. Descobrir uma passagem secreta que leva a um local antes inalcançável é talvez tão recompensador quanto derrotar um chefão difícil.</p>
 
+        <img src="imagens-fodas/caminho-verde.jpg" width="800" height="500" alt="cenário2">
+
         <p>Além dos belos gráficos desenhados a mão, o jogo tem toda uma ambientação e design sonoro muito bem feitos. Vale a pena jogar usando fones de ouvido não só pela trilha sonora fantástica, mas também para aproveitar as dicas dadas pelo som ambiente, como um inimigo que está prestes a atacar ou um choro ao fundo que pode revelar um personagem escondido.</p>
 
     </div>
@@ -44,10 +43,12 @@
         <h2>Paciência é a Chave</h2>
         <p>A principal dica para novos jogadores de Hollow Knight é: tenha paciência. Mesmo para os mais experientes, o jogo é realmente difícil nas primeiras horas. Você vai morrer bastante, mas não se desespere. Foque em acostumar-se com a movimentação, em prestar atenção nos detalhes do cenário, e em explorar cada canto do mapa.</p>
 
+        <img src="imagens-fodas/coliseu-dos-tolos.jpg" alt="cenário3">
+
         <p>Conforme progride no jogo, você adquire novos amuletos e novas mecânicas para o Cavaleiro, como mais máscaras de vida, pulo duplo, e outras habilidades que ajudam a navegar melhor pelos perigos dos túneis e cavernas de Hallownest. No entanto, vale lembrar que o jogo continua desafiador, e cada batalha contra um chefão é uma nova oportunidade para testar seus limites.</p>
     </div>
 
-    <div class="Video1" id="video">
+    <div class="Video1">
         <h2>Aqui está um vídeo caso você queira entender a históira de Hollow Knight!</h2>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/ItQoBbQGMvY?si=dR4q9VS7QIJq7gV5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
