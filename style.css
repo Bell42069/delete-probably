@@ -3,6 +3,19 @@
     padding: 0;
 }
 
+body {
+    background-image: url(imagens-fodas/fundo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.tudo {
+    border: 5px solid;
+    background-color: black;
+}
+
 .Título {
     text-align: center;
     color: darkgrey;
