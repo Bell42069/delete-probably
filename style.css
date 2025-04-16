@@ -22,6 +22,15 @@ body {
 }
 
 .Título {
+    background-image: url(imagens-fodas/fundo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.Título {
     text-align: center;
     color: darkgrey;
     max-width: 100;
@@ -41,6 +50,10 @@ body {
     text-align: center;
 }
 
-.Video3 {
-    text-align: center;
+.VideoLongo1 {
+    text-align: left;
+}
+
+.VideoLongo2 {
+    text-align: right;
 }
