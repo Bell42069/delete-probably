@@ -59,9 +59,10 @@ body {
 }
 
 .VideoLongo2 {
-    text-align: center;
+    text-align: right;
     display: grid;
 
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 100px 200px 50px; 
 }
+
