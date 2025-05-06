@@ -4,6 +4,11 @@
     color: aliceblue;
 }
 
+@font-face { 
+    font-family: roboto-regular; 
+    src: url('./Trajan\ Pro\ Regular.ttf'); 
+} 
+
 body {
     background-image: url(imagens-fodas/fundo.jpg);
     background-size: cover;
@@ -11,6 +16,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
+    font-family: roboto-regular;
 }
 
 .tudo {
