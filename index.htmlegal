@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -70,15 +69,15 @@
         <h1>Caso você queira aprender melhor, pode assistir essa triolgia de vídeos!</h1>
         <div class="VideosLongos">
             <div class="VideoLongo1">
-                <iframe width="370" height="400" src="https://www.youtube.com/embed/1ctOlVSJY_E?si=YUitpki1c_VGhoFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe width="560" height="400" src="https://www.youtube.com/embed/1ctOlVSJY_E?si=YUitpki1c_VGhoFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
             <div class="VideoLongo2">
-                <iframe width="370" height="400" src="https://www.youtube.com/embed/K3YBGdrLB74?si=hBpS0iCeDGJB2hlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe width="560" height="400" src="https://www.youtube.com/embed/K3YBGdrLB74?si=hBpS0iCeDGJB2hlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
             <div class="VideoLongo3">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/tvhaitA-rTM?si=QNY78gzK8q5Uvx41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe width="560" height="400" src="https://www.youtube.com/embed/tvhaitA-rTM?si=QNY78gzK8q5Uvx41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
     </div>
